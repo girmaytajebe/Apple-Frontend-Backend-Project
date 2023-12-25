@@ -1,0 +1,12 @@
+APIkey =AIzaSyDXSSzf5PuXFdWR0MuzDdd-dIbBtz8D1Vw
+
+chanell result =curl \
+  https://youtube.googleapis.com/youtube/v3/channels?part=id&forUsername=apple&maxResults=12&key=AIzaSyDXSSzf5PuXFdWR0MuzDdd-dIbBtz8D1Vw
+
+"jasonid": UCE_M8A5yxnLfW0KghEeajjw
+
+
+
+apiformat =curl \
+  https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=12&order=date&key=AIzaSyDXSSzf5PuXFdWR0MuzDdd-dIbBtz8D1Vw
+
